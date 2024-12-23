@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1734416868 source:d:\telyu stuff\semester 3\struktur data\aka_versi rekursif\main.cpp
+	<iostream>
+	"rekursif.h"
+	<iostream>
+	<string>
+	<chrono>
+
+1734350537 d:\telyu stuff\semester 3\struktur data\aka_versi rekursif\rekursif.h
+	<iostream>
+
+1734350537 source:d:\telyu stuff\semester 3\struktur data\aka_versi rekursif\rekursif.cpp
+	<iostream>
+	"rekursif.h"
+

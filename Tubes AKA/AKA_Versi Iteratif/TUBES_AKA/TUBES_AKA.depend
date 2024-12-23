@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1734236806 source:d:\telyu stuff\semester 3\struktur data\tubes_aka\aka.cpp
+	<iostream>
+	"AKA.h"
+	<string>
+	<cstdlib>
+
+1734236806 d:\telyu stuff\semester 3\struktur data\tubes_aka\aka.h
+	<iostream>
+	<string>
+	<cstdlib>
+
+1734415733 source:d:\telyu stuff\semester 3\struktur data\tubes_aka\main.cpp
+	<iostream>
+	"AKA.h"
+	<string>
+	<cstdlib>
+	<chrono>
+
